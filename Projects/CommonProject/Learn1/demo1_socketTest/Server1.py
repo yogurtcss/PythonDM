@@ -81,3 +81,4 @@ while True:
     """
 
 conn.close()   # 关闭连接
+sk.close()
